@@ -16,3 +16,5 @@ are requested to enter numbers by the keyboard.
 The file to be read in will always be in the proper format (one positive number per line)
 and it will not contain any letters or extra spaces.
 
+## Additional Information:
+Assignment for CIS*3190 in 2019.
