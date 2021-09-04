@@ -3,8 +3,8 @@ this program reads in a file of numbers as entered by the user and then determin
 
 ## How to run the program:
 - cd to the folder containing the "primes1.cob", "primes2.cob" and "primes3.cob" files
-- type 'cobc -x -free -Wall primes(1,2,3).cob' to compile
-- to run the program type './primes(1,2,3)'
+- type `cobc -x -free -Wall primes(1,2,3).cob` to compile
+- to run the program type `./primes(1,2,3)`
 
 - Note 1: brackets indiciate you can have a 1 or 2 or three to complete the line.
 - Note 2: A file to be read in should already exist (will throw error if it does not).
